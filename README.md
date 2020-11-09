@@ -6,7 +6,7 @@
 
 Best User Bot To Manage Your Telegram Account 
 ## © By Team #X3raqe™
-[![Get string session](https://repl.it/badge/github/sandy1709/sandeep1709)](https://generatestringsession.sandeep1709.repl.run/)
+[![Get string session](https://repl.it/badge/gigithub.com/abnliraq/x3raqe)](https://generatestringsession.sandeep1709.repl.run/)
 ### For any query or want to know how it works join Group And Channel 
 
 <a href="https://t.me/X3raqe"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>

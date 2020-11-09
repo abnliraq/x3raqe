@@ -23,11 +23,11 @@ async def amireallyalive(alive):
     if alive.reply_to_msg_id:
         reply_to_id = await alive.get_reply_message()
     if CAT_IMG:
-        cat_caption = f"⌔︙🕷🇮🇶 IRAQTHON BOT\n"
-        cat_caption += f"⌔︙🕷🇮🇶 Created By: [CH KLANR](https://t.me/RXXRX) || [CH IQ](https://t.me/IQTHON)\n"
+        cat_caption = f"⌔︙🕷🇮🇶 X3RAQE BOT\n"
+        cat_caption += f"⌔︙🕷🇮🇶 Created By: [DEV](https://t.me/x3raqe) || [dv](https://t.me/x3raqe)\n"
         cat_caption += f"⌔︙🕷🇮🇶 Version: 1.0.1\n"
         cat_caption += (
-            f"⌔︙🕷🇮🇶 The repo iraq: [Here](https://github.com/klanrali/iraq.thon)\n"
+            f"⌔︙🕷🇮🇶 LOVE You\n"
         )
         cat_caption += f"⌔︙🕷🇮🇶 Python Version : `{python_version()}\n`"
         cat_caption += f"⌔︙🕷🇮🇶 Uptime : `{uptime}\n`"
@@ -39,10 +39,10 @@ async def amireallyalive(alive):
     else:
         await edit_or_reply(
             alive,
-            f"⌔︙🕷🇮🇶 IRAQTHON BOT\n\n"
-            f"⌔︙🕷🇮🇶 Created By: [CH KLANR](https://t.me/RXXRX) || [CH IQ](https://t.me/IQTHON)\n"
+            f"⌔︙🕷🇮🇶 X3RAQE BOT\n\n"
+            f"⌔︙🕷🇮🇶 Created By: [DEV](https://t.me/x3raqe) || [dv](https://t.me/x3raqe)\n"
             f"⌔︙🕷🇮🇶 Version: 1.0.1\n"
-            f"⌔︙🕷🇮🇶 The repo iraq: [Here](https://github.com/klanrali/iraq.thon)\n"
+            f"⌔︙🕷🇮🇶 LOVE You\n"
             f"⌔︙🕷🇮🇶 Python Version : `{python_version()}\n`"
             f"⌔︙🕷🇮🇶 Uptime : `{uptime}\n`"
             f"⌔︙🕷🇮🇶 My Master: [{DEFAULTUSER}](tg://user?id={hmm})\n",

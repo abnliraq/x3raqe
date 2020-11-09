@@ -1,7 +1,7 @@
 {
-  "name": "iraqthon",
-  "description": "bot iqtthon thon for iraqi and me ch @iraqthon and ma dav @klanr",
-  "logo": "https://telegra.ph/file/1347718b23fd623f3f98c.jpg",
+  "name": "X3raqe",
+  "description": "bot X3raqe dav @x3raqe",
+  "logo": "https://telegra.ph/file/577a55fac79fa907d468d.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-   "repository": "https://github.com/klanrali/iraq.thon/",
+   "repository": "https://github.com/abnliraq/x3raqe/",
   "website": "#TODO",
   "success_url": "#TODO",
   "stack": "container",
@@ -25,7 +25,7 @@
     },
     "ALIVE_NAME": {
       "description": "تحذير لاتغير !!",
-      "value": "@iqthon"
+      "value": "@X3raqe"
     },
     "APP_ID": {
       "description": "ايبي ايدي هنا",
@@ -50,7 +50,7 @@
     
      "ALIVE_PIC": {
       "description": "تحذير عدم التغير !!.",
-      "value": "https://telegra.ph/file/1347718b23fd623f3f98c.jpg",
+      "value": "https://telegra.ph/file/577a55fac79fa907d468d.jpg",
       "required": false
     },
     "TZ": {

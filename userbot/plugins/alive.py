@@ -26,9 +26,7 @@ async def amireallyalive(alive):
         cat_caption = f"⌔︙🕷🇮🇶 X3RAQE BOT\n"
         cat_caption += f"⌔︙🕷🇮🇶 Created By: [DEV](https://t.me/x3raqe) || [dv](https://t.me/x3raqe)\n"
         cat_caption += f"⌔︙🕷🇮🇶 Version: 1.0.1\n"
-        cat_caption += (
-            f"⌔︙🕷🇮🇶 LOVE You\n"
-        )
+        cat_caption += f"⌔︙🕷🇮🇶 LOVE You\n"
         cat_caption += f"⌔︙🕷🇮🇶 Python Version : `{python_version()}\n`"
         cat_caption += f"⌔︙🕷🇮🇶 Uptime : `{uptime}\n`"
         cat_caption += f"⌔︙🕷🇮🇶 My Master: [{DEFAULTUSER}](tg://user?id={hmm})\n"

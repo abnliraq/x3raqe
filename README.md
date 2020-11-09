@@ -1,4 +1,4 @@
-# IRAQThon-BOT
+# X3raqe-BOT
 
 <p align="center">
 
@@ -15,7 +15,7 @@ Best User Bot To Manage Your Telegram Account
 
 <a href="https://youtu.be/HKLtmbiF"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
 
-### Host iraqbot In Heroku
+### Host X3raqe In Heroku
 
  
 

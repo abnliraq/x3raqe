@@ -2,10 +2,10 @@
 
 <p align="center">
 
-<img src="https://telegra.ph/file/1347718b23fd623f3f98c.jpg" alt="IRAQBOT">
+<img src="https://telegra.ph/file/577a55fac79fa907d468d.jpg" alt="X3RAQEBOT">
 
 Best User Bot To Manage Your Telegram Account 
-## © By Team #iraqthon™
+## © By Team #X3raqe™
 [![Get string session](https://repl.it/badge/github/sandy1709/sandeep1709)](https://generatestringsession.sandeep1709.repl.run/)
 ### For any query or want to know how it works join Group And Channel 
 
@@ -19,13 +19,13 @@ Best User Bot To Manage Your Telegram Account
 
  
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/klanrali/iraq.thon )
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/abnliraq/x3raqe )
 
 Termix codes for installation through Termex in Google Play for installing Source Iraq  :
 
 `sh
 
-git clone https://github.com/klanrali/iraq.thon
+git clone https://github.com/abnliraq/x3raqe
 
 cd iraq
 
